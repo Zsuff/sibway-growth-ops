@@ -63,7 +63,7 @@
 - **Marketing Operating System (Google Sheet):** https://docs.google.com/spreadsheets/d/17jBSYinc7I1VfY-YdxCGth7idCtEPn3QFcjzcm3dPf0/edit
 - **Market Research: Ukraine–Europe Logistics (Google Doc):** https://docs.google.com/document/d/1ySND55V6sX_HBFafzvRVD3YAutE7n2239LDrEYXm_2M/edit
 - **Target Segments, Client Personas & USP Hypotheses (Google Doc):** https://docs.google.com/document/d/1NuAhvQCS6KTELR4sTye2H_dLNRzEkDTVJ7QkTWQaNGM/edit
-- **Конкурентна розвідка Maersk:** ⚠️ **TODO — посилання не знайдено.** Google Drive API вимкнена для GCP-проєкту `strong-augury-509119-t6` (працюють лише Docs/Sheets API), тому автоматичний пошук по головній папці неможливий, а сам документ раніше в жодному опрацьованому джерелі (Market Research, Target Segments, попередній handoff-файл) не згадувався. Потрібно, щоб власник дав пряме посилання, або увімкнув Drive API в GCP Console і дозволив повторний пошук.
+- **Конкурентна розвідка Maersk:** свідомо не включено (рішення власника, 22.09.2026) — Google Drive API вимкнена для GCP-проєкту `strong-augury-509119-t6`, автоматичний пошук був неможливий, а документ раніше ніде не згадувався.
 
 ---
 
